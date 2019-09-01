@@ -2,7 +2,7 @@
 Probeer niet te struikelen over het word.
 
 
-Jay: Ik heb zojuist versie 7.0 op github gezet. deze bevat een fake nieuws brief in het geval van nood. 
+Jay: Ik heb zojuist versie 7.0 op github gezet. deze bevat een fake nieuws brief in het geval van nood. Deze heeft ook geen spellings fouten meer. 
 
 Laat mij weten wat ik hier verder aan kan verbeteren.   
 
